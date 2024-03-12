@@ -21,3 +21,8 @@ class ApiError extends Error {
 }
 
 export { ApiError };
+
+// let printError = new ApiError(500, "The error is this")
+// console.log(printError);
+
+/******* NOTE:- if you have any doubt in "class" log the above code on practice file and watch apna college classes video ********/
